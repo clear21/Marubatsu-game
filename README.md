@@ -13,8 +13,7 @@
 ┃  
 ┗ game_and_model_create.ipynb … メインプログラム（モデル作成含む）  
 
-# About Model
-■学習フロー
+# About Model（Learning Flow）
 ![model_marubatsu](https://user-images.githubusercontent.com/39453720/49334821-bc1ae400-f622-11e8-83ad-0db3c816c80b.png)
 
 # Capture
